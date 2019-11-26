@@ -15,6 +15,7 @@
       - scroll down to Ports section then expand it
       - connect device to pc
       - look for new device and note down the COM port for the new device
+      - ![alt text](![device_manager](https://user-images.githubusercontent.com/31028022/69596255-af995380-100a-11ea-9863-792ed2bc4426.PNG))
       - open Arduiono IDE
       - Tools > port > select the port you have allocated in Device Manager (usually COM5 or COM1)
       - DONE!
