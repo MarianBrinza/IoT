@@ -7,7 +7,6 @@
   - connect Echo pin to ESP pin D3
   - connect Trigger pin to ESP pin D4
 
-![ultrasonicSensor](https://user-images.githubusercontent.com/31028022/69598374-cd1deb80-1011-11ea-9093-59c82592c598.jpg)
+![wireGuide](https://user-images.githubusercontent.com/31028022/69598465-0f472d00-1012-11ea-97fb-d94ac2a1c13e.jpg)
 
-
-![wireGuide](https://user-images.githubusercontent.com/31028022/69598375-cd1deb80-1011-11ea-9dd2-e06c1dd68601.jpg)
+![ultrasonicSensor](https://user-images.githubusercontent.com/31028022/69598464-0eae9680-1012-11ea-9e87-7f454227d45a.jpg)
