@@ -1,0 +1,6 @@
+1. Open Arduino IDE
+2. Top menu
+3. Select Sketch > Include Library > Manage Libraries
+4. A new window will open
+5. Search for desired library (e.g. ESP8266Wifi)
+6. Select the library and click Install
