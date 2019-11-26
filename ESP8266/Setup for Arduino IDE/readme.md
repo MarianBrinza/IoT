@@ -4,11 +4,17 @@
       - install the driver
 3.  Configure Arduino IDE
       - open Arduino IDE
-      - go to: File => Preferences => Additional Boards Manager URLs:
-      - paste this link in the box from step 1: https://arduino.esp8266.com/stable/package_esp8266com_index.json
+      - go to: File > Preferences > Additional Boards Manager URLs > Settings  tab:
+      - locate: 'Additional Boards Manager URLs' input box
+      - paste this link in the input from above: https://arduino.esp8266.com/stable/package_esp8266com_index.json
       - restart IDE
-      - tools => board => Board Manager => search for 8266
+      - tools > board > Board Manager > search for esp8266
       - install driver: esp8266 by ESP8266 Community
-      - Tools => board => select: NodeMCU 1.0 (ESP-12E Module)
-      - Tools => port => select same port as you see in device manager
+      - Tools > board > select: NodeMCU 1.0 (ESP-12E Module)
+      - open Device Manager
+      - scroll down to Ports section then expand it
+      - connect device to pc
+      - look for new device and note down the COM port for the new device
+      - open Arduiono IDE
+      - Tools > port > select the port you have allocated in Device Manager
       - DONE!
