@@ -6,6 +6,10 @@ const int echoPin = 0;  //D3
 
 // define variables
 float distance, duration;
+
+// sound speed = 334 m/s
+// 334 / 10000 = 0.034 
+// 10000 represents 10000 cm which is equal to 100m
 float soundSpeed = 0.034;
 
 // contains code to run once:
