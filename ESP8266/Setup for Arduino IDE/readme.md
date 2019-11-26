@@ -1,7 +1,7 @@
 1. Download and install Arduino IDE from: https://www.arduino.cc/en/Main/Software
 2. Install USB Driver for ESP module:
-  - download driver for NodeMCU CP2010 from here: https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
-  - install the driver
+      - download driver for NodeMCU CP2010 from here: https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+      - install the driver
 3.  Configure Arduino IDE
   - open Arduino IDE
   - go to: File => Preferences => Additional Boards Manager URLs:
