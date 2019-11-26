@@ -9,12 +9,13 @@
 - Size (mm): 45 (L) x 20 (W) x 16 (H) 
 - Weight : 10 g
 
-Pin assignments
-  Pin Name	  Pin Function Description
-1	VCC	        Power
-2	Trig	      Trigger Input pin
-3	Echo      	Receiver Output pin
-4	GND	        Grown
+
+|Pin Name	  |Pin Function Description|
+|------|--------------------------------|
+|VCC	|        Power|
+|Trig |	      Trigger Input pin|
+|Echo |      	Receiver Output pin|
+|GND |	        Grown|
 
 Applications:
 1. Robotics barrier
