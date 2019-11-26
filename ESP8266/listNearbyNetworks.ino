@@ -1,4 +1,6 @@
 #include <ESP8266WiFi.h>
+
+// this function will run only once
 void setup() {
   Serial.begin(115200);
   Serial.println();
